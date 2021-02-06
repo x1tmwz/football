@@ -1,0 +1,28 @@
+input {
+    text-align: right;
+  }
+  select {
+    text-align: right;
+  }
+  html {
+    text-align: right;
+    font-size: 62.5%;
+  }
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 100%;
+    min-height: 100%;
+   
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: default;
+  }
+  

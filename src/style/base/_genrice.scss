@@ -1,0 +1,24 @@
+.link {
+    text-decoration: none;
+    color: $off-white;
+}
+.link-active {
+    text-decoration: none;
+    background-color: white;
+    color: $royal-blue;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+.link-BlindActive {
+    text-decoration: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+.img_icon{
+    width: 10px;
+    height: 10px;
+}
+.img_table-icon{
+    width: 100px;
+    height: 100px;
+}
