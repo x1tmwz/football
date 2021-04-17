@@ -7,7 +7,7 @@ function Search({ getOption, options, componentId, label, renderOption, getOptio
     return (
         <Autocomplete
             id={componentId}
-            style={{ width: 250 }}
+            className="search-input"
             options={options}
             loading={loading}
             value={value}

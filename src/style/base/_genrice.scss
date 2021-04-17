@@ -22,3 +22,16 @@
     width: 100px;
     height: 100px;
 }
+.list-scroll-continer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   
+}
+.list-scroll-continer_item{
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}

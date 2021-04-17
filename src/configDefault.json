@@ -1,0 +1,12 @@
+{
+    "main":{
+        "title":"My company"
+    },
+    "colorado":{
+        "center":{
+            "lat": 39,
+            "lng":-105.5
+        },
+        "zoom":12
+    }
+}

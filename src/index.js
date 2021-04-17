@@ -5,9 +5,9 @@ import AppRouter from './routers/AppRouter';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <AppRouter />
-  </React.StrictMode>,
+  <React.Fragment>
+    <AppRouter/>
+  </React.Fragment>,
   document.getElementById('root')
 );
 
